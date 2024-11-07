@@ -8,7 +8,6 @@ const CartCard = ({ items, onClick }) => {
     return (
         <>
             <div className='flex border gap-3 my-3 mx-5 px-4 py-2 items-center' >
-                <input type='checkbox' name="product_checkbox" onChange={(e) => console.log(e.target.checked)} />
                 <img src={products.image} alt={products.title} width={70} className='object-contain' loading='lazy' />
                 <div>
                     <h2 className='text-lg font-semibold'>{products.title}</h2>
