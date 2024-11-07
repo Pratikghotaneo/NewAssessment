@@ -13,19 +13,21 @@ Before you begin, ensure you have met the following requirements:
 
 1. First, clone the repository to your local machine.
 
-   git clone https://github.com/Pratikghotaneo/NewAssessment.git
- - [cd NewAssessment]
+```bash
+git clone https://github.com/Pratikghotaneo/NewAssessment.git
+cd NewAssessment
 
 ## Install Dependencies
 
-- [cd NewAssessment]
-- [npm install]
+```bash
+cd NewAssessment
+npm install
 
 ## Start the Project
 
 1. To start Project in development
-
-- [npm run dev]
+```bash
+npm run dev
 
 ## Built With
 
