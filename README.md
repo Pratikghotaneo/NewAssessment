@@ -13,19 +13,19 @@ Before you begin, ensure you have met the following requirements:
 
 1. First, clone the repository to your local machine.
 
-git clone https://github.com/your-username/ecommerce-project.git
-cd ecommerce-project
+   git clone https://github.com/Pratikghotaneo/NewAssessment.git
+ - [cd NewAssessment]
 
 ## Install Dependencies
 
-cd NewAssessment
-npm install
+- [cd NewAssessment]
+- [npm install]
 
 ## Start the Project
 
 1. To start Project in development
 
-npm run dev
+- [npm run dev]
 
 ## Built With
 
