@@ -16,18 +16,21 @@ Before you begin, ensure you have met the following requirements:
 ```bash
 git clone https://github.com/Pratikghotaneo/NewAssessment.git
 cd NewAssessment
+```
 
 ## Install Dependencies
 
 ```bash
 cd NewAssessment
 npm install
+```
 
 ## Start the Project
 
 1. To start Project in development
 ```bash
 npm run dev
+```
 
 ## Built With
 
